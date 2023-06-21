@@ -30,3 +30,6 @@ to run the server locally
 
 **You can access the live web on [whalert.xyz](https://whalert.xyz).**
 
+**Note: This app is currently running on the Goerli testnet.**
+
+
